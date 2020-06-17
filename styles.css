@@ -1,0 +1,58 @@
+/* body section */
+body{
+  background-image: url("images/bg-intro-desktop.png");
+  background-color: #f38181;
+  color: white;
+}
+.big{
+  padding-top: 70px;
+}
+
+/* info section */
+.info{
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.info-heading{
+  font-weight: bold;
+}
+
+/* form section */
+.trial{
+  background-color: #4d4c7d;
+  border-color: #4d4c7d;
+  margin-bottom: 20px;
+  box-shadow: 0 7px rgba(80,80,80,0.2);
+}
+.trial:hover{
+  background-color: #4d4c7d;
+  border-color: #4d4c7d;
+  color: white;
+}
+
+.card{
+  border-radius: 10px;
+  box-shadow: 0 7px rgba(80,80,80,0.2);
+  margin-bottom: 50px;
+}
+.claim{
+  background-color: #3CB371;
+  border-color: #3CB371;
+}
+.claim:hover{
+  background-color: rgba(60,179,113,0.8);
+  border-color: rgba(60,179,113,0.8);
+  color: white;
+}
+.btn{
+  color: white;
+}
+
+form small{
+  text-align: center;
+}
+a{
+  font-weight: bold;
+  color: #f38181;
+}
